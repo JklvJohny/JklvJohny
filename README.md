@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Krittamet Srikeaw</h1>
+<p align="center">
+  <a href="https://github.com/JklvJohny">github.com/JklvJohny</a>
+</p>
 
-<!--
-**JklvJohny/JklvJohny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="/metrics/isocalendar.svg" alt="Isometric commit calendar" width="49%">
+  <img src="/metrics/languages.svg" alt="Languages activity" width="49%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="/metrics/habits.svg" alt="Coding habits and activity" width="49%">
+  <img src="/metrics/followup.svg" alt="Follow-up of issues and pull requests" width="49%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="/metrics/pagespeed.svg" alt="Google PageSpeed" width="49%">
+</p>

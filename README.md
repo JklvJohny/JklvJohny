@@ -21,17 +21,17 @@
 
 ## About Me
 
-I enjoy turning hardware ideas into practical systems, from LabVIEW machine simulations to ESP32 monitoring dashboards and small C projects. My current focus is strengthening embedded programming, industrial automation concepts, and full-stack tooling for real-world monitoring systems.
+Technical Sales Solution at Yokogawa Thailand. I build automated parking systems end to end, from requirements to PLC logic and deployment.
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Current focus</strong><br>
-      Embedded systems, LabVIEW, automation, dashboards
+    <td width="50%" valign="top">
+      <strong>Working on</strong><br>
+      Industrial automation, Go, CI/CD
     </td>
-    <td width="50%">
-      <strong>Building style</strong><br>
-      Practical prototypes, readable code, clean project structure
+    <td width="50%" valign="top">
+      <strong>Learning</strong><br>
+      CAN bus firmware, AI / ML
     </td>
   </tr>
 </table>

@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=600&height=45&lines=Technical+Sales+Solution+%40+Yokogawa+Thailand;Embedded+%C2%B7+IoT+%C2%B7+AI+%2F+Machine+Learning;Go+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+PLC;Industrial+Automation+%26+OT+Security" alt="Technical Sales Solution @ Yokogawa Thailand | Embedded · IoT · AI / Machine Learning | Go · Python · Flutter · PLC | Industrial Automation & OT Security">
 </a>
 
-**Engineering student building embedded systems, LabVIEW simulations, C projects, and web dashboards.**
+**Engineering From Thailand**
 
 <a href="mailto:krittamet.srikaew@gmail.com">
   <img src="https://img.shields.io/badge/Email-krittamet.srikaew%40gmail.com-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">

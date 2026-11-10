@@ -31,7 +31,7 @@ Technical Sales Solution at Yokogawa Thailand. I build automated parking systems
     </td>
     <td width="50%" valign="top">
       <strong>Learning</strong><br>
-      CAN bus firmware, AI / ML
+      Devops, AI / ML
     </td>
   </tr>
 </table>
